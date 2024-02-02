@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/ozdemirsevval/ozdemirsevval/output/snake.svg" alt="Snake animation" />
 
 ###
 
